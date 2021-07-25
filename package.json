@@ -1,0 +1,11 @@
+{
+    "name": "circleci-javascript-example",
+    "author": "zaraki <any@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^27.0.6"
+    }
+}
